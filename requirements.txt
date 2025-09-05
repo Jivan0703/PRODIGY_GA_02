@@ -1,0 +1,12 @@
+# Stable Diffusion dependencies
+tensorflow>=2.10
+keras_cv>=0.13.0
+
+# DALL-E Mini dependencies
+dalle-mini
+# For some variants you may need:
+# torch
+# Pillow
+
+# General utilities
+matplotlib>=3.4
